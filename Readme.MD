@@ -18,6 +18,8 @@ To clone the Git repository containing the application code:
 
 ```shell
 git clone https://github.com/Suryakiran09/valor_assignment.git
+```
+```shell
 cd valor_assignment
 ```
 
