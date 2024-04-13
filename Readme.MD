@@ -65,9 +65,9 @@ The application will now be running and accessible at `http://localhost:8080/`.
 The API documentation can be accessed at the following URLs:
 
 - **Swagger UI:** [Swagger UI](http://localhost:8000/)
-  ```shell http://localhost:8000/ ```
+  ``` http://localhost:8000/ ```
 - **ReDoc:** [ReDoc](http://localhost:8000/redoc/) 
-  ```shell http://localhost:8000/redoc/ ```
+  ``` http://localhost:8000/redoc/ ```
 
 ## Endpoints
 Here are the available API endpoints with dummy JSON data for each endpoint:
