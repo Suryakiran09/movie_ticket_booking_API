@@ -1,4 +1,4 @@
-# My Application
+## Title: Online Movie Ticket Booking System using Django and DRF
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -11,6 +11,7 @@
 - [Testing](#testing)
 - [Design Decisions and Featues](#design-decisions-and-features)
 
+## Warning: Please change your email and password in the settings as password is blank
 
 ## Cloning the Repository
 To clone the Git repository containing the application code:
@@ -63,8 +64,8 @@ The application will now be running and accessible at `http://localhost:8080/`.
 
 The API documentation can be accessed at the following URLs:
 
-- **Swagger UI:** [Swagger UI](http://localhost:8000/)
-- **ReDoc:** [ReDoc](http://localhost:8000/redoc/)
+- **Swagger UI:** [Swagger UI](http://localhost:8000/) - [http://localhost:8000/]
+- **ReDoc:** [ReDoc](http://localhost:8000/redoc/) - [http://localhost:8000/redoc/]
 
 ## Endpoints
 Here are the available API endpoints with dummy JSON data for each endpoint:
