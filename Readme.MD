@@ -1,4 +1,4 @@
-## Title: Online Movie Ticket Booking System using Django and DRF
+## Title: Movie Ticket Booking System using Django and DRF
 
 ## Table of Contents
 - [Introduction](#introduction)
